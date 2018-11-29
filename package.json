@@ -1,0 +1,15 @@
+{
+  "name": "reinvent-session-materials-crawler",
+  "version": "1.0.0",
+  "description": "",
+  "main": "reinvent.js",
+  "dependencies": {
+    "puppeteer": "^1.10.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
