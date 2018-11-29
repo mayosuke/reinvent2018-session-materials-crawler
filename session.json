@@ -4,12 +4,12 @@
     "abstract": "In this session, learn how experienced leaders in digital advertising respond to the rapid evolution and sophistication of the advertising market driven by innovation and groundbreaking technology. Our customers share real-world applications they've leveraged in the cloud and how they see the media landscape changing as adoption of AI in the space becomes more widespread. Learn about existing and upcoming advancements and how they affect digital transformation in the years to come. Come away with ideas on how you can apply these learnings to your technology stack.",
     "media": [
       {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/leadership-session-digital-advertising-customer-learning-the-road-ahead-adt201l-aws-reinvent-2018"
-      },
-      {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PYuCJqf9uP4\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/leadership-session-digital-advertising-customer-learning-the-road-ahead-adt201l-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89133"
@@ -61,15 +61,15 @@
   },
   {
     "title": "AIM204-S - Smarter Event-Driven Edge with Amazon SageMaker & Project Flogo",
-    "abstract": "A single device can produce thousands of events every second. In traditional implementations, all data is transmitted back to a server or gateway for scoring by a machine learning (ML) model. This data is also stored in a data repository for later use by data scientists. In this session, we explore data science techniques for dealing with time series data leveraging Amazon SageMaker. We also look at modeling applications using deterministic rules with streaming pipelines for data prep, and model inferencing using deep learning frameworks directly onto edge devices or onto AWS Lambda using Project Flogo, an open-source event-driven framework. This session is brought to you by AWS partner, TIBCO Software Inc.",
+    "abstract": "A single device can produce thousands of events every second. In traditional implementations, all data is transmitted back to a server or gateway for scoring by a machine learning (ML) model. This data is also stored in a data repository for later use by data scientists. In this session, we explore data science techniques for dealing with time series data leveraging Amazon SageMaker. We also look at modeling applications using deterministic rules with streaming pipelines for data prep, and model inferencing using deep learning frameworks directly onto edge devices or onto AWS Lambda using Project Flogo, an open-source event-driven framework. This session is brought to you by AWS partner, TIBCO Software Inc.",
     "media": [
-      {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/smarter-eventdriven-edge-with-amazon-sagemaker-project-flogo-aim204s-aws-reinvent-2018"
-      },
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/rd0Ze9Uq890\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/smarter-eventdriven-edge-with-amazon-sagemaker-project-flogo-aim204s-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89226"
@@ -87,7 +87,7 @@
   },
   {
     "title": "AIM207-S - Faster, Better, Cheaper: AI Apps in One-Tenth the Time and Cost",
-    "abstract": "In this session, learn how the C3 Platform on AWS is architected and why it accelerates the development of enterprise-scale AI applications. Hear how customers like the US Air Force, Enel, and global manufacturing leaders are using C3 on AWS to rapidly aggregate, unify, federate, and normalize data from sensor networks and enterprise IT systems, and apply ML/AI algorithms against this data to unlock significant economic value. Hear from global organizations that are solving complex business challenges, from optimizing the supply network, to predicting which assets will fail, to identifying fraud and money laundering. This session is brought to you by AWS partner, C3.",
+    "abstract": "In this session, learn how the C3 Platform on AWS is architected and why it accelerates the development of enterprise-scale AI applications. Hear how customers like the US Air Force, Enel, and global manufacturing leaders are using C3 on AWS to rapidly aggregate, unify, federate, and normalize data from sensor networks and enterprise IT systems, and apply ML/AI algorithms against this data to unlock significant economic value. Hear from global organizations that are solving complex business challenges, from optimizing the supply network, to predicting which assets will fail, to identifying fraud and money laundering. This session is brought to you by AWS partner, C3.",
     "media": [
       {
         "type": "Video",
@@ -102,7 +102,7 @@
   },
   {
     "title": "AIM208-S - Accelerating Enterprise-Scale AI Application Development",
-    "abstract": "In this session, learn how the C3 Platform on AWS is architected to accelerate the development of modern AI applications. Hear how customers and partners have used the C3 Type System’s data-object centric abstraction layer to realize 10–100x productivity gains when building complex AI/ML applications. In addition, hear how global organizations are using C3 on AWS to solve complex business challenges, from optimizing the supply network, to predicting asset failure, to identifying fraud and money laundering. This presentation is brought to you by AWS partner, C3.",
+    "abstract": "In this session, learn how the C3 Platform on AWS is architected to accelerate the development of modern AI applications. Hear how customers and partners have used the C3 Type System’s data-object centric abstraction layer to realize 10–100x productivity gains when building complex AI/ML applications. In addition, hear how global organizations are using C3 on AWS to solve complex business challenges, from optimizing the supply network, to predicting asset failure, to identifying fraud and money laundering. This presentation is brought to you by AWS partner, C3.",
     "media": [
       {
         "type": "Video",
@@ -147,7 +147,7 @@
   },
   {
     "title": "AIM311 - Machine Learning and Predictive Quality Management",
-    "abstract": "From refined products to heavy crude, Four-Path Ultrasonic Flow Meters offers the capability to minimize measurement uncertainty of liquid hydrocarbons. Attendees work to build a machine learning (ML) predictive quality management (PQM) solution on AWS to proactively predict the health of the ultrasonic flow meters. This is done using the ML Data Readiness Package based on KNIME, from AWS Marketplace. Another PQM example for attendees to explore uses features extracted from motor current measured with a current probe and an oscilloscope on two phases measured under different speeds, load moments, and load forces. ML is used to proactively classify whether the motor has intact or defective components. A third PQM example involves using raw process sensor data from a hydraulic test rig with a primary working and a secondary cooling-filtration circuit, connected via the oil tank. They then use ML on AWS to proactively predict the cooler condition, hydraulic accumulator condition, internal pump leakage condition, and valve condition.",
+    "abstract": "From refined products to heavy crude, Four-Path Ultrasonic Flow Meters offers the capability to minimize measurement uncertainty of liquid hydrocarbons. Attendees work to build a machine learning (ML) predictive quality management (PQM) solution on AWS to proactively predict the health of the ultrasonic flow meters. This is done using the ML Data Readiness Package based on KNIME, from AWS Marketplace. Another PQM example for attendees to explore uses features extracted from motor current measured with a current probe and an oscilloscope on two phases measured under different speeds, load moments, and load forces. ML is used to proactively classify whether the motor has intact or defective components. A third PQM example involves using raw process sensor data from a hydraulic test rig with a primary working and a secondary cooling-filtration circuit, connected via the oil tank. They then use ML on AWS to proactively predict the cooler condition, hydraulic accumulator condition, internal pump leakage condition, and valve condition.",
     "media": [
       {
         "type": "Slide",
@@ -191,7 +191,7 @@
   },
   {
     "title": "AIM321 - Improve Your Customer Experience with Machine Translation",
-    "abstract": "Machine Translation powers Amazon’s international expansion. Sign up to learn how you can leverage Amazon Translate to increase customer satisfaction, cut down response times, and build a more efficient customer support operation. For example, you can add real-time translation to chat, email, and helpdesk so an English-speaking agent can communicate with customers in their preferred language, or translate your knowledge base into multiple languages to make it accessible to customers and employees around the world.  ",
+    "abstract": "Machine Translation powers Amazon’s international expansion. Sign up to learn how you can leverage Amazon Translate to increase customer satisfaction, cut down response times, and build a more efficient customer support operation. For example, you can add real-time translation to chat, email, and helpdesk so an English-speaking agent can communicate with customers in their preferred language, or translate your knowledge base into multiple languages to make it accessible to customers and employees around the world.",
     "media": [
       {
         "type": "Slide",
@@ -246,7 +246,7 @@
   },
   {
     "title": "AIM340 - Build an Intelligent Multi-Modal User Agent with Voice and NLU",
-    "abstract": "Sophisticated AI capabilities can help us manage the exploding number of information sources and tools required to perform our daily tasks. In this chalk talk, we describe how intelligent agents can be designed to quickly and efficiently complete tasks delegated by users. To build this intelligent agent, we combine a number of AWS services, such as Amazon Polly, Amazon Lex, Amazon Rekognition, Amazon Sumerian, and Amazon ElastiCache along with other technologies, such as CLIPS and Reinforcement Learning. Come hear us discuss the project’s architecture, implementation, and demo progress made to date.\n\n ",
+    "abstract": "Sophisticated AI capabilities can help us manage the exploding number of information sources and tools required to perform our daily tasks. In this chalk talk, we describe how intelligent agents can be designed to quickly and efficiently complete tasks delegated by users. To build this intelligent agent, we combine a number of AWS services, such as Amazon Polly, Amazon Lex, Amazon Rekognition, Amazon Sumerian, and Amazon ElastiCache along with other technologies, such as CLIPS and Reinforcement Learning. Come hear us discuss the project’s architecture, implementation, and demo progress made to date.",
     "media": [
       {
         "type": "Slide",
@@ -345,7 +345,7 @@
   },
   {
     "title": "AIM390 - Machine Learning Your Eight-Year-Old Would Be Proud Of",
-    "abstract": "Come see examples of how Bebo uses Amazon SageMaker to power massive Fortnite tournaments every week. Traditional sports require referees, scorekeepers, field staff, and broadcast crews for every match. But esports are digital by nature. In this session, learn how machine learning and computer vision are enabling esports to occur at a massive scale. Learn how Bebo developed a model that can detect every victory and elimination, and can even prevent cheating on their tournament platform. ",
+    "abstract": "Come see examples of how Bebo uses Amazon SageMaker to power massive Fortnite tournaments every week. Traditional sports require referees, scorekeepers, field staff, and broadcast crews for every match. But esports are digital by nature. In this session, learn how machine learning and computer vision are enabling esports to occur at a massive scale. Learn how Bebo developed a model that can detect every victory and elimination, and can even prevent cheating on their tournament platform.",
     "media": [
       {
         "type": "Video",
@@ -360,22 +360,22 @@
   },
   {
     "title": "AIM404-R - [REPEAT] Build, Train, and Deploy ML Models Quickly and Easily with Amazon SageMaker, ft. 21st Century Fox",
-    "abstract": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples.",
+    "abstract": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples.",
     "media": [
-      {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/build-train-and-deploy-ml-models-quickly-and-easily-with-amazon-sagemaker-ft-21st-century-fox-aim404r-aws-reinvent-2018"
-      },
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jWWyKE5ApqI\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/build-train-and-deploy-ml-models-quickly-and-easily-with-amazon-sagemaker-ft-21st-century-fox-aim404r-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91032"
   },
   {
     "title": "AIM404-R1 - [REPEAT 1] Build, Train, and Deploy ML Models Quickly and Easily with Amazon SageMaker, ft. the NFL",
-    "abstract": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples.",
+    "abstract": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples.",
     "media": [
       {
         "type": "Video",
@@ -393,12 +393,12 @@
     "abstract": "Machine learning (ML) enables developers to build scalable solutions that maximizes the use of media assets through automatic metadata extraction. From automatic transcription and language translation to face detection and celebrity recognition, ML enables you to automate manual workflows and optimize the use of your video content. In this session, learn how to use services such as Amazon Rekognition, Amazon Translate, and Amazon Comprehend to build a searchable video library, automate the creation of highlight reels, and more.",
     "media": [
       {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/unlock-the-full-potential-of-your-media-assets-ft-fox-entertainment-group-aim406-aws-reinvent-2018"
-      },
-      {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/nYKTWlcPk6M\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/unlock-the-full-potential-of-your-media-assets-ft-fox-entertainment-group-aim406-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22840"
@@ -408,12 +408,12 @@
     "abstract": "The Apache MXNet deep learning framework is used for developing, training, and deploying diverse AI applications, including computer vision, speech recognition, and natural language processing at scale. In this session, learn how to get started with MXNet on the Amazon SageMaker machine learning platform. Hear from Workday about how they built computer vision and natural language processing (NLP) models using MXNet to automatically extract information from paper documents, such as expense receipts and populate data records. Workday also shares its experience using Sockeye, an MXNet toolkit for quickly prototyping sequence-to-sequence NLP models.",
     "media": [
       {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/build-deep-learning-applications-using-apache-mxnet-featuring-workday-aim407r-aws-reinvent-2018"
-      },
-      {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/9d0wfBYFM3Q\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/build-deep-learning-applications-using-apache-mxnet-featuring-workday-aim407r-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91095"
@@ -477,10 +477,6 @@
     "title": "ALX201-R - [REPEAT] Alexa Everywhere: A Year in Review",
     "abstract": "Since its launch in 2015, Alexa has enabled new experiences across many device form factors at home, work, in the car, and on the go. With over 50,000 published skills, hundreds of new API features releases, and numerous Alexa-enabled devices, it can be hard to keep track with of the current pace. In this session, we get you up to speed on the current Voice First movement, the current Conversational AI trends, and we give demonstrations of some of the latest Alexa features and devices. Come learn about the new Alexa Skills Kit (ASK) multi-modal framework, Alexa Presentation Language (APL) for developers, Alexa skill fulfillment and consumables for customers, and some of the latest device offerings utilizing the Alexa Voice Service (AVS) and the new Alexa Gadgets Toolkit.",
     "media": [
-      {
-        "type": "Video",
-        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AxP3UPnFE2o\" frameborder=\"0\" allowfullscreen></iframe>"
-      },
       {
         "type": "Slide",
         "url": "https://www.slideshare.net/AmazonWebServices/alexa-everywhere-a-year-in-review-alx201-aws-reinvent-2018"

@@ -49,15 +49,27 @@ const [,, ...searchWords] = process.argv;
                 });
             }
             return {
-                title: document.querySelector('.detailHeader > h1').innerText,
-                abstract: document.querySelector('#abstract').innerText,
-                media: mediaList
+                title: document.querySelector('.detailHeader > h1').innerText.trim(),
+                abstract: document.querySelector('#abstract').innerText.trim(),
+                media: mediaList.sort((a,b) => {
+                    if(a.type === b.type) {
+                        if(a.url < b.url) { return -1; }
+                        if(a.url > b.url) { return 1; }
+                        return 0;
+                    }
+                    if(a.type === 'Video') { return -1 }
+                    return 1;
+                })
             }
         });
         session.sessionUrl = url;
         sessions.push(session);
     };
-    console.log(JSON.stringify(sessions));
+    console.log(JSON.stringify(sessions.sort((a,b) => {
+        if (a.title < b.title) { return -1; }
+        if (a.title > b.title) { return 1; }
+        return 0;
+    })));
 
     await browser.close();
 })();
