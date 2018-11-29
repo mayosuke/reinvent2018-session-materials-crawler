@@ -27,10 +27,11 @@ const [,, ...searchWords] = process.argv;
         await page.waitFor(1000);
     }
     const sessionWithMaterialsUrls = await page.evaluate(_ => {
-        var sessionWithMaterials = document.querySelectorAll('.sessionRow > div > a > .title > .sessionVideo');
+        // var sessionWithMaterials = document.querySelectorAll('.sessionRow > div > a > .title > .sessionVideo');
+        var sessionWithMaterials = document.querySelectorAll('#searchResult > div > div > a');
         var links = [];
         for (var i = 0; i < sessionWithMaterials.length; i++) {
-            links.push(sessionWithMaterials[i].parentElement.parentElement.href);
+            links.push(sessionWithMaterials[i].href);
         }
         return links;
     });
@@ -62,8 +63,10 @@ const [,, ...searchWords] = process.argv;
                 })
             }
         });
-        session.sessionUrl = url;
-        sessions.push(session);
+        if(session.media.length > 0) {
+            session.sessionUrl = url;
+            sessions.push(session);
+        }
     };
     console.log(JSON.stringify(sessions.sort((a,b) => {
         if (a.title < b.title) { return -1; }

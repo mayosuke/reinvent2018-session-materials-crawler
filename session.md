@@ -68,6 +68,13 @@ https://www.slideshare.net/AmazonWebServices/accelerating-enterprisescale-ai-app
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91697" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91697</a>
 
+## AIM301-R1 - [REPEAT 1] Deep Learning for Developers: An Introduction, Featuring Samsung SDS
+Artificial intelligence (AI) is rapidly evolving, and much of the advancement is driven by deep learning, a machine learning technique inspired by the inner workings of the human brain. In this session, learn what deep learning is and how you can use it in your applications to unlock new and exciting capabilities for your customers and business. Also hear from Samsung SDS about how it developed a deep-learning model for cardiac arrhythmia detection using Apache MXNet, an open-source deep-learning framework. By the end of the session, you will understand how to leverage deep learning in your applications and get started with it.
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ThWdx4h_8aE" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91099" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91099</a>
+
 ## AIM302 - Machine Learning at the Edge
 Video-based tools have enabled advancements in computer vision, such as in-vehicle use cases for AI. However, it is not always possible to send this data to the cloud to be processed. In this session, learn how to train machine learning models using Amazon SageMaker and deploy them to an edge device using AWS Greengrass, enabling you process data quickly at the edge, even when there is no connectivity.
 ### Video
@@ -221,6 +228,13 @@ https://www.slideshare.net/AmazonWebServices/machine-learning-your-eightyearold-
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91737" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91737</a>
 
+## AIM402-R1 - [REPEAT 1] Deep Learning Applications Using PyTorch, Featuring Facebook
+With support for PyTorch 1.0 on Amazon SageMaker, you now have a flexible deep learning framework combined with a fully managed machine learning platform to transition seamlessly from research prototyping to production deployment. In this session, learn how to develop with PyTorch 1.0 within Amazon SageMaker using a novel generative adversarial network (GAN) tutorial. Then, hear from Facebook on how you can use the FAIRSeq modeling toolkit, which serves 6B translations daily for Facebook users, to train your own custom PyTorch models on Amazon SageMaker. Facebook also discusses the evolution of PyTorch 1.0 and features introduced to accelerate research and deployment.
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/5h1Ot2dPi2E" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22842" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22842</a>
+
 ## AIM404-R - [REPEAT] Build, Train, and Deploy ML Models Quickly and Easily with Amazon SageMaker, ft. 21st Century Fox
 Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples.
 ### Video
@@ -292,12 +306,26 @@ https://www.slideshare.net/AmazonWebServices/deep-learningbased-texttospeech-syn
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90836" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90836</a>
 
+## AIS301 - AI Summit
+Artificial intelligence (AI) is having a profound impact as industries increasingly depend on digital resources to innovate. With the future of AI in mind, the AI Summit at re:Invent showcases the latest in AI research and emerging trends. In 30-minute Lightning Talks, attendees hear from leaders in the research community who share their perspectives on everything from AI-fueled cancer research to quantum computing. The AI Summit is held on Tuesday November 27th from 1:00pm to 5:30pm at the Venetian Theater. Presenters at this year's event include Alexandre Bayen (UC Berkeley), Mona Singh (Princeton University), Rohit Prasad (Amazon AI), Thorsten Joachims (Cornell University), Jodi Forlizzi (Carnegie Mellon University), Peter Wittek (University of Toronto), Shyam Gollakota (University of Washington) and Ronald Fedkiw (Stanford University).
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lft4areXvpk" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90434" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90434</a>
+
 ## ALX201-R - [REPEAT] Alexa Everywhere: A Year in Review
 Since its launch in 2015, Alexa has enabled new experiences across many device form factors at home, work, in the car, and on the go. With over 50,000 published skills, hundreds of new API features releases, and numerous Alexa-enabled devices, it can be hard to keep track with of the current pace. In this session, we get you up to speed on the current Voice First movement, the current Conversational AI trends, and we give demonstrations of some of the latest Alexa features and devices. Come learn about the new Alexa Skills Kit (ASK) multi-modal framework, Alexa Presentation Language (APL) for developers, Alexa skill fulfillment and consumables for customers, and some of the latest device offerings utilizing the Alexa Voice Service (AVS) and the new Alexa Gadgets Toolkit.
 ### Slide
 https://www.slideshare.net/AmazonWebServices/alexa-everywhere-a-year-in-review-alx201-aws-reinvent-2018
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94358" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94358</a>
+
+## ALX201-R1 - [REPEAT 1] Alexa Everywhere: A Year in Review
+Since its launch in 2015, Alexa has enabled new experiences across many device form factors at home, work, in the car, and on the go. With over 50,000 published skills, hundreds of new API features releases, and numerous Alexa-enabled devices, it can be hard to keep track with of the current pace. In this session, we get you up to speed on the current Voice First movement, the current Conversational AI trends, and we give demonstrations of some of the latest Alexa features and devices. Come learn about the new Alexa Skills Kit (ASK) multi-modal framework, Alexa Presentation Language (APL) for developers, Alexa skill fulfillment and consumables for customers, and some of the latest device offerings utilizing the Alexa Voice Service (AVS) and the new Alexa Gadgets Toolkit.
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MsibLQOdqlQ" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91556" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91556</a>
 
 ## ALX304 - Tailor Your Alexa Skill Responses to Deliver Truly Personal Experiences
 Delivering truly personal responses to customers is one of the most engaging features of an Alexa skill. In this session, learn the different approaches and best practices in creating responses that are tailored to each one of your customers. By applying what you learn, you can keep them coming back to your voice experience.
