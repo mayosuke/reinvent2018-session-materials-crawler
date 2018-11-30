@@ -25,6 +25,13 @@ https://www.slideshare.net/AmazonWebServices/democratize-data-preparation-for-an
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91070" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91070</a>
 
+## AIM202-L - Leadership Session: Machine Learning
+Amazonは、パーソナライゼーションおよび推奨エンジンからのフルフィルメントセンターではロボットに、AIで長い歴史を持っています。アマゾンゴー、アマゾンアレクサ、とAmazonプライム空気も例です。このセッションでは、AWSから最新の機械学習サービスについての詳細を学び、そして革新的なAIのためのAWSと提携している顧客から話を聞きます。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/GW0Bktm55nI" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22847" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22847</a>
+
 ## AIM203-S - Patient-Focused Data Science: Machine Learning for Complex Diseases
 アマゾンの機械学習（ML）サービスは、彼らが生き残り、繁栄するために必要な洞察力を見つけるために、医療機関を有効にする方法について知りたいですか？武田研究者が建設され、シミュレートし、全体的な疾病負担を定量化し、潜在的なリスクを識別するために、AWS上で実行されているデロイトConvergeHEALTHを使用して深い学習モデルを含め、自分の疾患特異的MLモデルを訓練し方法を学ぶためにご参加ください。このセッションでは、AWSパートナー、デロイトコンサルティングLLPによってもたらされます。
 ### Video
@@ -49,6 +56,13 @@ https://www.slideshare.net/AmazonWebServices/smarter-eventdriven-edge-with-amazo
 https://www.slideshare.net/AmazonWebServices/new-aiml-solutions-with-aws-deeplens-amazon-sagemaker-with-conocophillips-aim205-aws-reinvent-2018
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91796" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91796</a>
+
+## AIM206-R20 - [NEW LAUNCH!] [REPEAT 20] AWS DeepRacer Workshops –a new, fun way to learn reinforcement learning
+新発売のAWS DeepRacerで没入感のために、キーボードの後ろに取得します。このワークショップでは、強化学習と実地体験を取得します。事前機械学習の経験を持つ開発者は、新しいスキルを学び、楽しくてエキサイティングな方法で彼らの知識を適用します。あなたはあなたがグランドガーデンアリーナでMGMスピードウェイイベントで試すことができる機械学習モデルを構築し、電車ますピットクルーに参加します！あなたのラップトップを持参し、あなたのエンジンを起動してください、レースがオンになっています！
+### Slide
+https://www.slideshare.net/AmazonWebServices/robocar-rally-2018-aim206r20-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91790" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91790</a>
 
 ## AIM207-S - Faster, Better, Cheaper: AI Apps in One-Tenth the Time and Cost
 このセッションでは、AWS上のC3プラットフォームが構築されている方法を学び、なぜそれがエンタープライズ規模のAIアプリケーションの開発を加速します。米空軍、エネル、およびグローバルな製造リーダーのような顧客は急速に集約、統一連合、およびセンサネットワークと、企業のITシステムからのデータを正規化し、ロックを解除するために、このデータに対してML / AIアルゴリズムを適用するためにAWS上でC3を使用しているかを聞きます重要な経済的価値。供給ネットワークの最適化から、詐欺やマネーロンダリングを識別することに失敗し、その資産の予測に、複雑なビジネス上の課題を解決しているグローバルな組織から話を聞きます。このセッションでは、AWSパートナー、C3によってもたらされます。
@@ -84,6 +98,24 @@ https://www.slideshare.net/AmazonWebServices/machine-learning-at-the-edge-aim302
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22835" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22835</a>
 
+## AIM303-R2 - [REPEAT 2] Create Smart and Interactive Apps with Intelligent Language Services on AWS
+Amazonは、すべての開発者の手の届くところに、自然言語処理、自動音声認識、テキスト音声変換サービス、および神経の機械翻訳技術をもたらします。このセッションでは、言語とチャットボットの機能を提供し、機械学習サービスと任意のアプリケーションにインテリジェンスを追加する方法を学びます。他の人が聞くことができるアプリケーションの次の世代を定義し、構築している方法を参照してください、話す、理解し、そして私たちの周りの世界と対話します。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9epnmJ6RFpQ" frameborder="0" allowfullscreen></iframe>
+### Slide
+https://www.slideshare.net/AmazonWebServices/create-smart-and-interactive-apps-with-intelligent-language-services-on-aws-aim303r2-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90872" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90872</a>
+
+## AIM304 - Transform the Modern Contact Center Using Machine Learning and Analytics
+チャネルでの顧客サービスの相互作用を分析することで、顧客の完全な360度のビューを提供します。すべての相互作用をキャプチャすることで、あなたはより良い問題の根本原因を特定し、最初の呼び出しの解決と顧客満足度を向上させることができます。このセッションでは、迅速に処理し、分析、顧客の会話の何千もの貴重な洞察を得るために、アマゾンの接続およびAWS機械学習サービスなどアマゾンレックス、アマゾンの議事録、とAmazon理解を統合する方法を学びます。音声とテキスト分析を使用すると、彼らはエスカレートを取得する前に、新興サービス関連の動向をピックアップしたり特定し、その開始時に潜在的な広範囲の問題に対処することができます。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Sd0_OaAZ-4Y" frameborder="0" allowfullscreen></iframe>
+### Slide
+https://www.slideshare.net/AmazonWebServices/transform-the-modern-contact-center-using-machine-learning-and-analytics-aim304-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22839" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22839</a>
+
 ## AIM307-R - [REPEAT] Deep Dive on Amazon Rekognition, ft. Tinder & News UK
 アマゾンRekognitionの最新機能に深いダイビングのためにご参加ください。簡単に、手動でワークフローを自動化するために、アプリケーションにインテリジェントな画像や映像解析を追加し、創造性を高め、よりパーソナライズされた顧客体験を提供する方法を学びます。我々は微調整と、コンテンツを緩和検索可能なコンテンツライブラリを作成し、既存のアプリケーションへの二次認証を統合するなど、ユースケース、各種のためにアマゾンRekognitionを最適化するためのベストプラクティスを共有しています。
 ### Video
@@ -92,6 +124,13 @@ https://www.slideshare.net/AmazonWebServices/machine-learning-at-the-edge-aim302
 https://www.slideshare.net/AmazonWebServices/deep-dive-on-amazon-rekognition-ft-tinder-news-uk-aim307r-aws-reinvent-2018
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89917" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89917</a>
+
+## AIM307-R1 - [REPEAT 1] Deep Dive on Amazon Rekognition, ft. Pinterest
+アマゾンRekognitionの最新機能に深いダイビングのためにご参加ください。簡単に、手動でワークフローを自動化するために、アプリケーションにインテリジェントな画像や映像解析を追加し、創造性を高め、よりパーソナライズされた顧客体験を提供する方法を学びます。我々は微調整と、コンテンツを緩和検索可能なコンテンツライブラリを作成し、既存のアプリケーションへの二次認証を統合するなど、ユースケース、各種のためにアマゾンRekognitionを最適化するためのベストプラクティスを共有しています。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/jFgtImmEH7w" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22837" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22837</a>
 
 ## AIM311 - Machine Learning and Predictive Quality Management
 重質原油の精製品からは、フォーパス超音波流量計は、液体炭化水素の測定の不確かさを最小化する機能を提供しています。参加者は積極的に超音波流量計の健全性を予測するために、AWS上（ML）の予測品質管理（PQM）ソリューションを機械学習を構築するために働きます。これは、AWS Marketplaceから、KNIMEに基づいてMLデータ準備パッケージを使用して行われます。探索する参加者のための別のPQMの例は、電流プローブと異なる速度、負荷モーメント、および負荷力の下で測定された2つの相にオシロスコープで測定されたモータ電流から抽出された特徴を使用します。 MLは、積極的にモーターをそのまままたは欠陥部品を持っているかどうかを分類するために使用されます。第三のPQMの例は、オイルタンクを介して接続された一次加工および二次冷却濾過回路を有する油圧試験リグから生プロセスセンサデータを使用することを含みます。そして、彼らは積極的にクーラー条件、油圧アキュムレータの状態、内部ポンプ漏れ条件、およびバルブの状態を予測することはAWS上でMLを使用しています。
@@ -106,6 +145,13 @@ https://www.slideshare.net/AmazonWebServices/machine-learning-and-predictive-qua
 https://www.slideshare.net/AmazonWebServices/build-a-babel-fish-with-machine-learning-language-services-aim313-aws-reinvent-2018
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88695" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88695</a>
+
+## AIM314 - Create a "Question and Answer" Bot with Amazon Lex and Amazon Alexa
+最近の世論調査では、顧客の44％が、むしろ顧客サポートのための人間よりも、チャットボットに話すことを示しました。このワークショップでは、我々は、質問を展開し、2つのオープンソース・プロジェクト使用してボット答える方法をお見せ：。QnABotとレックス-のWeb-UIをあなたが提供するアマゾンレックス、アレクサ、とAmazon Elasticsearchサービスを使用してすぐに始めます会話チャットボットインターフェイス。あなたは、AWSラムダを使用して、このソリューションを強化し、アマゾンの接続と統合されています。」
+### Slide
+https://www.slideshare.net/AmazonWebServices/create-a-question-and-answer-bot-with-amazon-lex-and-amazon-alexa-aim314-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88696" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88696</a>
 
 ## AIM315-R1 - [REPEAT 1] Deep Learning for Edge to Cloud
 このワークショップでは、EDM音楽祭の経験の新しいタイプを提供するという課題を想定したスタートアップの役割に足を踏み入れます。あなたの目標は、祭りを高め、接続のファンの経験を開発するための機械学習（ML）を使用することです。是非、あなたが構築し、MLモデルを展開して、エッジデバイスから、それに推論を実行するとアマゾンSageMaker、AWS DeepLens、アマゾンRekognition、およびAWSラムダと実地経験を得ます。
@@ -212,6 +258,20 @@ https://www.slideshare.net/AmazonWebServices/build-humanintheloop-systems-with-a
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90859" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90859</a>
 
+## AIM358-R1 - [REPEAT 1] Human-in-the-Loop for Machine Learning
+企業は機械学習（ML）の効率だけでなく、人間の判断の品質の両方の恩恵を受けることができます。 ML溶液の増加部分は、ヒト・イン・ザ・ループヒトフィードバックは、その妥当性を判断し、その結果を洗練するために役立つ、すなわち、MLアルゴリズムの出力を評価するために設けられている（HITL）。例では、タスクが純粋に機械的な解決のためにあまりにも曖昧と人間の専門家でも大規模なチームのためにあまりにも膨大であるかもしれない画像分類、です。このセッションでは、効果的に高い精度とアマゾン機械トルコ人（メカニカルターク）とのより良い結果を達成するために、あなたのMLプロジェクトにおいて、ヒト・イン・ザ・ループを組み込む方法を学びます。
+### Slide
+https://www.slideshare.net/AmazonWebServices/humanintheloop-for-machine-learning-aim358r1-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90681" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90681</a>
+
+## AIM365 - [NEW LAUNCH!] Introducing Amazon Personalize: Real-time Personalization and Recommendations
+アマゾンパーソナライズは、企業が、このような勧告、検索結果、メールキャンペーンや通知などのパーソナライズされた経験を、提供することができますフルマネージドサービスです。これは、Amazon.comからの個人の経験20年以上にわたりもたらし、ほとんど、あるいはまったく機械学習の経験を持つ開発者の手にそれを置きます。すべてのいくつかの簡単なAPI呼び出しで - アマゾンパーソナライズを管理し、処理データ、データに基づいて、右のアルゴリズムを選択し、カスタム機械学習モデルを訓練し、展開するデータを使用してのプロセス全体を自動化するAutoMLを使用しています。私たちに参加して、あなたはリアルタイムでユーザーの好みや行動に応える魅力的な経験を構築するためにコンシェルジェを使用する方法を学びます。
+### Video
+Unsupported type
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91996" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91996</a>
+
 ## AIM385 - Build an Event Registration Kiosk Powered by Facial Recognition
 イベントに登録し、入力するためにあなたのチケットを確認するために並んで待っていることは困難なプロセスです。機械学習は、イベントの登録プロセスを合理化するために顔認識を使用することで、この課題に対する解決策を提供します。これは、ラインを最小限に抑え、迅速にイベントを登録し、入力する参加者を可能にします。このセッションでは、我々は、顔認識を搭載したイベント登録キオスクを構築するサードパーティの登録サービスと統合、およびWebベースのキオスクアプリケーションを作成するためのベストプラクティスを共有しています。
 ### Slide
@@ -228,12 +288,47 @@ https://www.slideshare.net/AmazonWebServices/machine-learning-your-eightyearold-
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91737" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91737</a>
 
+## AIM396-S - ML Best Practices: Prepare Data, Build Models, and Manage Lifecycle
+このセッションでは、我々は彼らの機械学習（ML）の努力を簡素化し、拡張する強力なオープンソース技術を利用したい企業のためのベストプラクティスをカバーしています。それは、さまざまなソース間で大規模なスケールでデータを統合し、データの準備のために、Apacheのスパーク、一般的に、今日の企業で使用されるデータ処理と分析エンジンを使用する方法を学びます。私たちは、TensorFlowを使用してモデルを訓練し、私たちは、再現性の環境内の複数のユーザー間での実験の実行を追跡するためにMLflowを使用しています。私たちは、その後、生産モデルの展開を管理します。私たちは、MLflowは、既存のMLのライブラリを使用し、インクリメンタル既存のML開発プロセスに組み込むことができる方法を示しています。このセッションでは、AWSパートナー、Databricksによってもたらされます。
+### Slide
+https://www.slideshare.net/AmazonWebServices/ml-best-practices-prepare-data-build-models-and-manage-lifecycle-aim396s-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89216" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=89216</a>
+
+## AIM401-R - [REPEAT] Deep Learning Applications Using TensorFlow
+TensorFlow深い学習フレームワークは、コンピュータビジョン、自然言語、音声、および翻訳を含む多様なAIアプリケーションを開発するために使用されます。このセッションでは、アマゾンSageMaker機械学習プラットフォーム内TensorFlow使用する方法を学びます。このコード・レベル・セッションもTensorFlowを使用してチュートリアルと例を含みます。
+### Video
+Unsupported type
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22845" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22845</a>
+
+## AIM401-R1 - [REPEAT 1] Deep Learning Applications Using TensorFlow, ft. Siemens Financial Services
+TensorFlow深い学習フレームワークは、コンピュータビジョン、自然言語、音声、および翻訳を含め、多様なAIアプリケーションを開発するために使用されます。このセッションでは、シーメンスファイナンシャルサービス（SFS）、投資デューデリジェンスのための機械学習モデルを開発するためにアマゾンSageMakerにTensorFlow使用する方法を提示しています。このアプリケーションは、自然言語処理に焦点を当て、それが書類から最も関連して重要な情報を抽出することによって、デューデリジェンスを加速しています。 AWSとSFSの両方がAWS上TensorFlowモデルを構築し、展開するためのベストプラクティスを共有しています。
+### Slide
+https://www.slideshare.net/AmazonWebServices/deep-learning-applications-using-tensorflow-ft-siemens-financial-services-aim401r1-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91059" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91059</a>
+
 ## AIM402-R1 - [REPEAT 1] Deep Learning Applications Using PyTorch, Featuring Facebook
 AmazonでSageMaker上PyTorch 1.0のサポートにより、あなたは今、生産展開に研究試作からシームレスに移行するために、完全に管理機械学習プラットフォームと組み合わせた柔軟な深い学習フレームワークを持っています。このセッションでは、新しい生成的敵対ネットワーク（GAN）のチュートリアルを使用してAmazonでSageMaker内PyTorch 1.0で開発する方法を学びます。その後、あなたはアマゾンSageMakerに独自のカスタムPyTorchモデルを訓練するために、Facebookユーザーのため6B翻訳毎日提供FAIRSeqモデリングツールキットを使用することができますどのようにFacebookのから話を聞きます。 FacebookはまたPyTorch 1.0や研究展開を加速するために導入された機能の進化について説明します。
 ### Video
 <iframe width="560" height="315" src="https://www.youtube.com/embed/5h1Ot2dPi2E" frameborder="0" allowfullscreen></iframe>
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22842" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22842</a>
+
+## AIM403-R - [REPEAT] Integrate Amazon SageMaker with Apache Spark, ft. Moody's
+アマゾンSageMaker、当社の完全管理機械学習プラットフォームは、事前に構築されたアルゴリズムや人気のある深い学習フレームワークが付属しています。アマゾンSageMakerはまた、あなたが簡単にあなたのスパーククラスターからモデルを訓練するために使用することができますApacheのスパークライブラリが含まれています。このコードレベルのセッションでは、我々は、Amazon SageMakerとApacheのスパークアプリケーションを統合する方法を示しています。我々はまた、スパークからトレーニングジョブを開始するスパークパイプラインでのトレーニングの仕事を統合し、より奥深く潜ります。
+### Video
+Unsupported type
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22846" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22846</a>
+
+## AIM403-R1 - [REPEAT 1] Integrate Amazon SageMaker with Apache Spark, ft. Moody's
+アマゾンSageMaker、当社の完全管理機械学習プラットフォームは、事前に構築されたアルゴリズムや人気のある深い学習フレームワークが付属しています。アマゾンSageMakerはまた、あなたが簡単にあなたのスパーククラスターからモデルを訓練するために使用することができますApacheのスパークライブラリが含まれています。このコードレベルのセッションでは、我々は、Amazon SageMakerとApacheのスパークアプリケーションを統合する方法を示しています。我々はまた、スパークからトレーニングジョブを開始するスパークパイプラインでのトレーニングの仕事を統合し、より奥深く潜ります。
+### Slide
+https://www.slideshare.net/AmazonWebServices/integrate-amazon-sagemaker-with-apache-spark-ft-moodys-aim403r1-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91060" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91060</a>
 
 ## AIM404-R - [REPEAT] Build, Train, and Deploy ML Models Quickly and Easily with Amazon SageMaker, ft. 21st Century Fox
 アマゾンSageMakerは、迅速かつ容易に構築するために、開発者やデータ科学者を可能にし、完全に管理プラットフォームであり、列車、および任意のスケールで機械学習モデルを展開します。アマゾンSageMakerは、このように機械学習に関連した典型的な障壁を取り除く、機械学習の力仕事を奪います。このセッションでは、プラットフォームの機能を紹介するアマゾンSageMakerのモジュールのそれぞれの技術的な詳細に深く潜るます。また、実世界の顧客事例を通じてアマゾンSageMakerの実用的な展開を議論します。
@@ -271,6 +366,27 @@ https://www.slideshare.net/AmazonWebServices/build-deep-learning-applications-us
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91095" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91095</a>
 
+## AIM410-R2 - [REPEAT 2] Build, Train, and Deploy ML Models with Amazon SageMaker
+是非、可能な限り最も正確なテキスト分類モデルを構築するのに役立ちます。 （ML）プラットフォームを学習完全に管理されたマシン、アマゾンSageMakerは、電車を構築し、組み込みまたはカスタムのアルゴリズムを使用して、MLモデルを展開する開発者やデータ科学者を可能にします。このワークショップでは、あなたは、Amazon SageMakerにカスタムアルゴリズムを使用して、テキスト分類ソリューションを構築するためにKeras / TensorFlow深い学習の枠組みを活用する方法を学びます。あなたはそれをローカルにテストし、ドッカーコンテナにカスタムトレーニングコードをパッケージ化した後、深い学習モデルを訓練するためにアマゾンSageMakerを使用しています。その後、繰り返し精度の高いレベルを達成するためにモデルを改善してみてください。最後に、あなたはこのML分類サービスを活用し始めることができ、企業内の生産ので、異なるアプリケーションでモデルを展開します。積極的にこのワークショップに参加することに注意してください、あなたは、Amazon SageMaker、アマゾン弾性コンテナレジストリ（アマゾンECR）、とAmazon S3への管理者レベルIAM権限でアクティブなAWSアカウントが必要です。
+### Slide
+https://www.slideshare.net/AmazonWebServices/build-train-and-deploy-ml-models-with-amazon-sagemaker-aim410r2-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91061" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91061</a>
+
+## AIM411 - Uber on Using Horovod for Distributed Deep Learning
+顧客が直面する主要な課題の一つは、複数のノードを超える効率的な深い学習トレーニングを実行しています。このチョークの話では、ユーバーはTensorFlowとPyTorchに深い学習トレーニングをスピードアップするために、Horovod、分散訓練フレームワークを使用する方法について説明します。
+### Slide
+https://www.slideshare.net/AmazonWebServices/uber-on-using-horovod-for-distributed-deep-learning-aim411-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88728" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88728</a>
+
+## AIM414 - Sequence-to-Sequence Modeling with Apache MXNet, Sockeye, and Amazon SageMaker
+このセッションでは、我々は「自然言語処理のための最先端のアーキテクチャを注意してエンコーダ・デコーダのアーキテクチャを議論。このアーキテクチャは、MXNetの紅鮭パッケージに実装され、シーケンス対で使用されていますアマゾンSageMakerの配列アルゴリズム。」
+### Slide
+https://www.slideshare.net/AmazonWebServices/sequencetosequence-modeling-with-apache-mxnet-sockeye-and-amazon-sagemaker-aim414-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88741" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88741</a>
+
 ## AIM415-R1 - [REPEAT 1] Capture Voice of Customer Insights with NLP & Analytics
 あなたの顧客を理解することは、これまでよりも今日の方が簡単です。自然言語機能は、ユーザーの感情や会話の意図など、豊富な情報をキャプチャすることができます。このワークショップでは、あなたは、より良い顧客体験を改善する方法を理解するために、自然言語処理（NLP）を含ん分析パイプラインを構築する方法を教えています。出席者は、このようなコンタクトセンターの通話録音として、処理し、顧客データの分析を行うために、アマゾン理解とAmazonの議事録などのAWSサービスを利用する方法を学びます。
 ### Slide
@@ -299,12 +415,54 @@ https://www.slideshare.net/AmazonWebServices/train-models-on-amazon-sagemaker-us
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88724" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88724</a>
 
+## AIM420 - Detect Anomalies Using Amazon SageMaker
+メトリックを含むビジネス・メトリック、アプリケーションメトリック、および低レベルのソフトウェアとハードウェアの多種多様のためのメトリクス - あなたが正しいデータで終わることを確認するために、異常を検出することが重要です。このチョークの話では、異常を検出するために、アマゾンSageMakerに組み込まれたランダムカットの森アルゴリズムについて学びます。私たちは、現実的な解決策を見つけるために異常やチューニングデータを検出するに深く潜ります。
+### Slide
+https://www.slideshare.net/AmazonWebServices/detect-anomalies-using-amazon-sagemaker-aim420-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88726" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88726</a>
+
+## AIM421 - Build a Custom Model for Object & Logo Detection
+特定のオブジェクトやロゴを検出することは、メディアやエンターテイメントから金融サービスに、あらゆる業界の企業を助けることができる機能です。しかし、新しいオブジェクトまたはロゴを検出すると、カスタムモデルを構築する必要になります。このチョークの話では、ロゴ、オブジェクト、あるいは不適切なコンテンツを検出するためのカスタムモデルを構築するためにアマゾンRekognitionとAmazon SageMakerを使用する方法を学びます。
+### Slide
+https://www.slideshare.net/AmazonWebServices/build-a-custom-model-for-object-logo-detection-aim421-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88730" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88730</a>
+
+## AIM422 - Fraud Detection and Prevention Using Amazon SageMaker and Amazon Neptune
+ビジネス詐欺は、オンラインとオフラインのトランザクション間で懸念が高まっています。このチョーク講演では、アマゾンSageMakerとAmazon海王星と機械学習を利用して不正行為を検出するに飛び込みます。私たちは、そのようなクラスの不均衡などの建物モデルの詳細を議論します。我々はまた、偽陽性と偽陰性の異なるコストを議論します。さらに、我々はこのようなシナリオで健康的なモデルを構築するために使用することができリニア学習者のようなアルゴリズムについて話しています。
+### Slide
+https://www.slideshare.net/AmazonWebServices/amazon-awsreinvent2018-artificial-intelligence-machine-learning-aim422-amazon-neptune-amazon-sagemaker
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88739" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88739</a>
+
+## AIM428 - Building, Training, and Deploying fast.ai Models Using Amazon SageMaker
+時間の短いスペースでは、fast.aiはfast.aiの成功オンライン大規模オープンオンラインコース（MOOC）によって駆動され、人気のディープラーニングライブラリとなっています。それは、数週間のスパンで、SW開発者が達成するために、このようなコンピュータビジョン（CV）、自然言語処理（NLP）、および構造化データの機械学習などのドメインにおける最先端の成果を許可しています。このチョーク講演では、建物、トレーニング、およびアマゾンSageMakerを使用してfast.aiベースのモデルを展開する詳細に入ります。
+### Slide
+https://www.slideshare.net/AmazonWebServices/building-training-and-deploying-fastai-models-using-amazon-sagemaker-aim428-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88751" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88751</a>
+
+## AIM429-R1 - [REPEAT 1] Build Deep Learning Applications Using TensorFlow and Amazon SageMaker
+ディープ学習は、コンピュータビジョン、言語アプリケーション、およびよりの芸術の状態をプッシュし続けています。このワークショップでは、電車、構築するためにアマゾンSageMaker、完全に管理されたプラットフォームを使用してTensorFlow深い学習フレームワークを使い始める方法を学び、そしてスケールで機械学習モデルを展開。画像と物体認識のためのJupyterノートブックを設定することでTensorFlowを使用してモデルを構築する方法を学びます。持参自分で自分のコードを使用して持参自分で自分アルゴリズム技術をあなたの深い学習モデルを開発します。モデルが構築されると、訓練し、アマゾンSageMakerを使用して、それを展開する方法を学びます。
+### Slide
+https://www.slideshare.net/AmazonWebServices/build-deep-learning-applications-using-tensorflow-and-amazon-sagemaker-aim429r1-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91100" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91100</a>
+
 ## AIM431 - Deep Learning-Based Text-to-Speech Synthesis with MXNet
 テキストトゥスピーチ（TTS）は、このような人工的なアシスタント、電子ブックのための読者、ゲームのキャラクターの声、そしてより多くのような多くの用途で使用されています。このセッションでは、グルーオン・インターフェースは、Apache MXNetにおけるオープンソースのライブラリを使用して、複数の声のための深い学習技術を持つTTSシステムを構築する方法を学びます。
 ### Slide
 https://www.slideshare.net/AmazonWebServices/deep-learningbased-texttospeech-synthesis-with-mxnet-aim431-aws-reinvent-2018
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90836" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90836</a>
+
+## AIM432-R1 - [REPEAT 1] Build Deep Learning Applications Using PyTorch and Amazon SageMaker
+このワークショップでは、電車を構築し、迅速かつ容易にスケールでの機械学習（ML）モデルを展開するために、アマゾンSageMakerを使用してPyTorch深い学習フレームワークを始めるためにどのように完全に管理されたプラットフォームを学びます。まず、私たちは私たちの画像データセットからの分析情報を発見するのに役立ちます深いニューラルネットワークを用いたコンピュータビジョンのモデルを作成します。その後、我々は分析を行い、当社のMLモデルの出力を使用してビジネス価値を見出すために、アマゾン赤方偏移、完全に管理されたデータウェアハウスを使用します。
+### Slide
+https://www.slideshare.net/AmazonWebServices/build-deep-learning-applications-using-pytorch-and-amazon-sagemaker-aim432r1-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91102" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91102</a>
 
 ## AIS301 - AI Summit
 産業がますます革新をデジタルリソースに依存するように人工知能（AI）は、大きな影響を有しています。心の中でAIの未来では、再でAIサミット：InventのAIの研究と新たな動向の最新情報を紹介しています。 30分ライトニングトークでは、参加者は、量子コンピューティングへのAIを燃料と癌の研究に至るまでの彼らの視点を共有し、研究コミュニティの指導者から話を聞きます。 AIサミットは、ヴェネツィアの劇場で午後1時から午後5時30分まで火曜日、11月27日に開催されます。今年のイベントでの発表は、アレクサンドルBayen（UCバークレー校）、モナ・シン（プリンストン大学）、のRohitプラサド（アマゾンAI）、トルステンJoachims（コーネル大学）、ジョディForlizzi（カーネギーメロン大学）、ピーター・Wittek（トロント大学）が含まれ、シャムGollakota（ワシントン大学）とロナルド・フェドキ（スタンフォード大学）。
@@ -327,10 +485,40 @@ https://www.slideshare.net/AmazonWebServices/alexa-everywhere-a-year-in-review-a
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91556" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91556</a>
 
+## ALX301-R2 - [REPEAT 2] How to Train Your Alexa Skill Language Model Using Machine Learning
+係Alexaのスキルを作成するには、自分の声のUIのためのよく考え抜かれた言語モデルを持っている必要があります。このセッションでは、あなたの言語モデルを最適化するカスタムインテントの正しいトレーニングデータを提供し、新規および既存の言語モデルを改善するための具体的な戦略を使用することにより、お客様にごAlexaのスキルがより楽しいようにする方法を学びます。インタラクティブな会話のために準備してきます。
+### Slide
+https://www.slideshare.net/AmazonWebServices/how-to-train-your-alexa-skill-language-model-using-machine-learning-alx301r2-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88618" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88618</a>
+
+## ALX302 - Learnings from the Field: Best Practices for Making Money with Alexa Skills
+このセッションでは、我々は、設計とあなたのスキルを購入して、スキル追加するプロセスを順を追って。経験豊富な開発者が自分の中にスキル購買旅、彼らが学んだ教訓、そして彼らは、その後のベストプラクティスを共有しています。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B0aMlEPhFF4" frameborder="0" allowfullscreen></iframe>
+### Slide
+https://www.slideshare.net/AmazonWebServices/learnings-from-the-field-best-practices-for-making-money-with-alexa-skills-alx302-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88625" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88625</a>
+
+## ALX303-R2 - [REPEAT 2] Alexa for Device Makers: Create Products with Alexa Built-In Using AVS
+このハンズオンワークショップでは、あなたに話すことができる製品を作成するために、アレクサ内蔵を使用して、音楽、情報にアクセスするために使用し、スマートホームデバイスを制御する方法を学び、アレクサのスキルのすべて。クラウドベースのアレクサ音声サービス（AVS）にアクセスするために基づいて、AVSデバイスのSDKとラズベリーパイ - 私たちは、C ++を使用しています。市場にあなたのプロダクトを持って来るために、独自の動作するプロトタイプや知識を持ったこのセッションを残します。
+### Slide
+https://www.slideshare.net/AmazonWebServices/alexa-for-device-makers-create-products-with-alexa-builtin-using-avs-alx303r2-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90264" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90264</a>
+
 ## ALX304 - Tailor Your Alexa Skill Responses to Deliver Truly Personal Experiences
 お客様に本当に個人的な応答を提供することはAlexaのスキルの中で最も魅力的な機能の一つです。このセッションでは、あなたの顧客のそれぞれに合わせて調整された応答を作成する際のさまざまなアプローチとベストプラクティスを学びます。あなたは何を学ぶ適用することで、あなたは彼らがあなたの声の経験に帰ってくることができます。
 ### Slide
 https://www.slideshare.net/AmazonWebServices/tailor-your-alexa-skill-responses-to-deliver-truly-personal-experiences-alx304-aws-reinvent-2018pdf
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88619" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88619</a>
+
+## ALX306-R2 - [REPEAT 2] Everything You Wanted to Know about Developing for Voice Using Alexa
+このチョーク講演では、アレクサの音声体験を構築する際に開発者が直面する共通の課題を確認します。私たちは、画面向けの開発に年間で学んだことを強調し、技術のデザインの歴史の概要を説明します。我々はまた、我々はGUIの設計原理とは対照的でアレクサスキルキットを使用して、音声-最初の設計のためのベストプラクティスを確立します。あなたは質問をし、仲間のスキル開発者の間でアイデアを議論する機会を持っています。このセッションの終わりまでに、音声用に開発し、画面指向の媒体向けの開発の類似点と相違点を理解することが予想されます。
+### Slide
+https://www.slideshare.net/AmazonWebServices/everything-you-wanted-to-know-about-developing-for-voice-using-alexa-alx306r2-aws-reinvent-2018
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88621" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88621</a>
 
