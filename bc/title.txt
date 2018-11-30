@@ -1,0 +1,8 @@
+"GPSCT303 - Blockchain Architecture Design Patterns"
+"GPSTEC315 - Build Business-Ready Blockchains with Intelligence"
+"GPSTEC317 - Building Blockchain Platforms Beyond a Proof of Concept"
+"MAE315 - Blockchain for Media & Entertainment - Buzz or Real?"
+"RET217 - Blockchain in Retail"
+"SEC389 - Detecting Credential Compromise in AWS"
+"STP05 - #BUIDLing the Decentralized Future on Ethereum"
+"STP12 - Crypto 101/201"
