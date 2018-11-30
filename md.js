@@ -1,6 +1,6 @@
 'use strict';
 
-const sessions = require(`./${process.argv[2]}`);
+const sessions = require(`${process.argv[2]}`);
 
 sessions.forEach((session,i,a) => {
     console.log(`## ${session.title}`);
