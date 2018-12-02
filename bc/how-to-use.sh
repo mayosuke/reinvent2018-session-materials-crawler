@@ -9,4 +9,4 @@ cat session.json | jq '.[].title' > title.txt
 # en, ja, [
 # xxx, =GOOGLETRANSLATE(A2, A$1,B$1), =CONCATENATE("""",B2,""",")
 
-# node ../md.js ./bc/session.json abstract-ja.json > session.ja.md
+# node ../md.js ./bc/session.json ./bc/abstract-ja.json > session.ja.md
