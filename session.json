@@ -51,6 +51,10 @@
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GW0Bktm55nI\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/leadership-session-machine-learning-aim202l-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22847"
@@ -114,10 +118,6 @@
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/GyhxziEItyA\" frameborder=\"0\" allowfullscreen></iframe>"
-      },
-      {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/faster-better-cheaper-ai-apps-in-onetenth-the-time-and-cost-aim207s-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91635"
@@ -129,13 +129,20 @@
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jhkdbdx0qos\" frameborder=\"0\" allowfullscreen></iframe>"
-      },
-      {
-        "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/accelerating-enterprisescale-ai-application-development-aim208s-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91697"
+  },
+  {
+    "title": "AIM301-R - [REPEAT] Deep Learning for Developers: An Introduction, Featuring Samsung SDS",
+    "abstract": "Artificial intelligence (AI) is rapidly evolving, and much of the advancement is driven by deep learning, a machine learning technique inspired by the inner workings of the human brain. In this session, learn what deep learning is and how you can use it in your applications to unlock new and exciting capabilities for your customers and business. Also hear from Samsung SDS about how it developed a deep-learning model for cardiac arrhythmia detection using Apache MXNet, an open-source deep-learning framework. By the end of the session, you will understand how to leverage deep learning in your applications and get started with it. Please join us for a speaker meet-and-greet following this session at the Speaker Lounge (ARIA East, Level 1, Willow Lounge). The meet-and-greet starts 15 minutes after the session and runs for half an hour.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/4SJBcZQX8uA\" frameborder=\"0\" allowfullscreen></iframe>"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22836"
   },
   {
     "title": "AIM301-R1 - [REPEAT 1] Deep Learning for Developers: An Introduction, Featuring Samsung SDS",
@@ -144,6 +151,10 @@
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/ThWdx4h_8aE\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/deep-learning-for-developers-an-introduction-featuring-samsung-sds-aim301r1-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91099"
@@ -162,6 +173,17 @@
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22835"
+  },
+  {
+    "title": "AIM303-R1 - [REPEAT 1] Create Smart and Interactive Apps with Intelligent Language Services on AWS",
+    "abstract": "Amazon brings natural language processing, automatic speech recognition, text-to-speech services, and neural machine translation technologies within the reach of every developers. In this session, learn how to add intelligence to any application with machine learning services that provide language and chatbot functions. See how others are defining and building the next generation of apps that can hear, speak, understand, and interact with the world around us.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/QP-zMvZb8OA\" frameborder=\"0\" allowfullscreen></iframe>"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22838"
   },
   {
     "title": "AIM303-R2 - [REPEAT 2] Create Smart and Interactive Apps with Intelligent Language Services on AWS",
@@ -215,6 +237,10 @@
       {
         "type": "Video",
         "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/jFgtImmEH7w\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/deep-dive-on-amazon-rekognition-ft-pinterest-aim307r1-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22837"
@@ -286,6 +312,28 @@
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88708"
   },
   {
+    "title": "AIM329-R1 - [REPEAT 1] Amazon SageMaker and Chainer: Tips & Tricks",
+    "abstract": "In this session, learn how to use Chainer, an open-source deep learning framework written in Python, in the Amazon SageMaker machine learning platform.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/amazon-sagemaker-and-chainer-tips-tricks-aim329r1-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91110"
+  },
+  {
+    "title": "AIM332 - Improve Accessibility Using Machine Learning",
+    "abstract": "Machine learning (ML) can help people with disabilities by using facial and object recognition, text-to-speech, automatic translation, and transcription to create assistive applications. In this chalk talk, learn how to assemble ML APIs from AWS to help people in new ways.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/improve-accessibility-using-machine-learning-aim332-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88722"
+  },
+  {
     "title": "AIM333 - Unsupervised Learning with Amazon SageMaker",
     "abstract": "How do you use machine learning with data that isn't labeled? The unsupervised learning capabilities of Amazon SageMaker can easily handle unlabeled data. In this chalk talk, we discuss the intricacies of unsupervised algorithms that are built into Amazon SageMaker, including clustering with k-means and anomaly detection with Random Cut Forest.",
     "media": [
@@ -330,6 +378,17 @@
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88731"
   },
   {
+    "title": "AIM339 - Building Online Communities Without Language Barriers",
+    "abstract": "Most communities are currently language specific. To engage in a community the user must speak the language native language. In this chalk talk, we will discuss how you can integrate state of the art machine translation to enable users to effectively share and consume content in their language of choice and create truly global communities. Broadening the user base through seamless language translation helps developers increase participation and contribution, ultimately improving the economics of their applications.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/building-online-communities-without-language-barriers-aim339-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88733"
+  },
+  {
     "title": "AIM340 - Build an Intelligent Multi-Modal User Agent with Voice and NLU",
     "abstract": "Sophisticated AI capabilities can help us manage the exploding number of information sources and tools required to perform our daily tasks. In this chalk talk, we describe how intelligent agents can be designed to quickly and efficiently complete tasks delegated by users. To build this intelligent agent, we combine a number of AWS services, such as Amazon Polly, Amazon Lex, Amazon Rekognition, Amazon Sumerian, and Amazon ElastiCache along with other technologies, such as CLIPS and Reinforcement Learning. Come hear us discuss the project’s architecture, implementation, and demo progress made to date.",
     "media": [
@@ -372,6 +431,28 @@
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88744"
+  },
+  {
+    "title": "AIM344 - [NEW LAUNCH!] Introducing Amazon Forecast",
+    "abstract": "Based on the same technology used at Amazon.com, Amazon Forecast uses machine learning to combine time series data with additional variables to build forecasts. Amazon Forecast requires no machine learning experience to get started. You only need to provide historical data, plus any additional data that you believe may impact your forecasts. Come learn more.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/kU5cFdXjwOc\" frameborder=\"0\" allowfullscreen></iframe>\n"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91997"
+  },
+  {
+    "title": "AIM346 - NLP in Healthcare to Predict Adverse Events with Amazon SageMaker",
+    "abstract": "In healthcare, pharmacovigilance is key to improving patient outcomes. The prediction of adverse events will enable pharmaceutical companies and drug distributors in accurately meeting their pharmacovigilance requirements and scaling their operations. In this chalk talk, we discuss how Amazon SageMaker can be used to classify large-scale agent and reporter interaction summaries. We also discuss natural language processing (NLP) methods and results.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/nlp-in-healthcare-to-predict-adverse-events-with-amazon-sagemaker-aim346-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88745"
   },
   {
     "title": "AIM347 - Detecting Financial Market Manipulation Using Machine Learning",
@@ -429,15 +510,89 @@
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90681"
   },
   {
-    "title": "AIM365 - [NEW LAUNCH!] Introducing Amazon Personalize: Real-time Personalization and Recommendations",
-    "abstract": "Amazon Personalize is a fully-managed service that helps companies deliver personalized experiences, such as recommendations, search results, email campaigns and notifications. It brings over 20 years of experience in personalization from Amazon.com and puts it in the hands of developers with little or no machine learning experience. Amazon Personalize uses AutoML to automate the entire process of managing and processing data, choosing the right algorithm based on the data, and using the data to train and deploy custom machine learning models — all with a few simple API calls. Join us and learn how you can use Concierge to build engaging experiences that respond to user preferences and behavior in real-time.",
+    "title": "AIM361 - Building State-of-the-Art Computer Vision Models Using MXNet and Gluon",
+    "abstract": "Implementing computer vision (CV) models just got simpler and faster. In this chalk talk, learn how to implement CV models using MXNet and the Gluon CV Toolkit, which provides implementations of state-of-the-art deep learning algorithms in computer vision to help engineers, researchers, and students quickly prototype products, validate new ideas, and learn computer vision.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/building-stateoftheart-computer-vision-models-using-mxnet-and-gluon-aim361-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88735"
+  },
+  {
+    "title": "AIM362 - Crowdsourcing Data Collection with Amazon Mechanical Turk",
+    "abstract": "One of the most expensive and time-consuming aspects of building your machine learning (ML) model is probably generating a high-quality dataset. Many times, all you have is a big bucket of raw, unlabeled data. Furthermore, the process of manually annotating massive datasets might be the most painful phase of your ML workflow. Crowdsourcing can be a great way to minimize the costs and the time it takes to collect and annotate data. Amazon Mechanical Turk makes accessing human intelligence simple, scalable, and cost-effective. In this workshop, learn how to use crowdsourcing to find still images to best represent scenes from a hit TV series, The Marvelous Mrs. Maisel, and identify and label items in those images to train an ML model.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/crowdsourcing-data-collection-with-amazon-mechanical-turk-aim362-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90844"
+  },
+  {
+    "title": "AIM363 - [NEW LAUNCH!] Introducing Amazon Textract: Now in Preview",
+    "abstract": "Amazon Textract enables you to easily extract text and data from virtually any document. Today, companies process millions of documents by manually entering the data or using customized optical character recognition solutions, which are prone to error and consume valuable resources. Join us to learn how Amazon Textract uses machine learning to simplify document processing by enabling fast and accurate text and data extraction so you can process millions of documents in hours.",
     "media": [
       {
         "type": "Video",
-        "url": "Unsupported type"
+        "url": "<iframe src=\"//www.slideshare.net/slideshow/embed_code/key/iJ1UwGiyCSGxvC\" width=\"595\" height=\"485\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\" style=\"border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;\" allowfullscreen> </iframe> <div style=\"margin-bottom:5px\"> <strong> <a href=\"//www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-textract-now-in-preview-aim363-aws-reinvent-2018pdf\" title=\"[NEW LAUNCH!] Introducing Amazon Textract: Now in Preview (AIM363) - AWS re:Invent 2018\" target=\"_blank\">[NEW LAUNCH!] Introducing Amazon Textract: Now in Preview (AIM363) - AWS re:Invent 2018</a> </strong> from <strong><a href=\"//www.slideshare.net/AmazonWebServices\" target=\"_blank\">Amazon Web Services</a></strong> </div>"
+      },
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FnZFK_2oqKk\" frameborder=\"0\" allow=\"accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture\" allowfullscreen></iframe>"
       }
     ],
-    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91996"
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91998"
+  },
+  {
+    "title": "AIM366 - [NEW LAUNCH!] Introducing Amazon Elastic Inference: Reduce Deep Learning Inference Cost up to 75%",
+    "abstract": "Deploying deep learning applications at scale can be cost prohibitive due to the need for hardware acceleration to meet latency and throughput requirements of inference. Amazon Elastic Inference helps you tackle this problem by reducing the cost of inference by up to 75% with GPU-powered acceleration that can be right-sized to your application’s inference needs. In this session, learn about how to deploy TensorFlow, Apache MXNet, and ONNX models with Amazon Elastic Inference on Amazon EC2 and Amazon SageMaker. Hear from Autodesk on the positive impact of AI on tools used to design and make a better world. Learn about how Autodesk and the Autodesk AI Lab are using Amazon Elastic Inference to make it cost efficient to run these tools at scale.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/hqYjkT0BP1o\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/new-launch-introducing-amazon-elastic-inference-reduce-deep-learning-inference-cost-up-to-75-aim366-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92000"
+  },
+  {
+    "title": "AIM367 - [NEW LAUNCH!] Introducing AWS DeepRacer",
+    "abstract": "Developers start your engines! This breakout session will provide an introduction to the newly launched AWS DeepRacer. Learn about the basics of reinforcement learning, what’s under the hood and your opportunities to experience AWS DeepRacer for yourself.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/M1U_cyAUtU8\" frameborder=\"0\" allowfullscreen></iframe>\n"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92001"
+  },
+  {
+    "title": "AIM369 - [NEW LAUNCH!] Introducing Amazon SageMaker Ground Truth: Build High-Quality and Accurate ML Training Datasets",
+    "abstract": "Successful machine learning models are built on high-quality training datasets. Labeling raw data to get accurate training datasets involves a lot of time and effort because sophisticated models can require thousands of labeled examples to learn from, before they can produce good results. Typically, the task of labeling is distributed across a large number of humans, adding significant overhead and cost. Join us as we introduce Amazon SageMaker Ground Truth, a new service that provides an effective solution to reduce this cost and complexity using a machine learning technique called active learning. Active learning reduces the time and manual effort required to do data labeling, by continuously training machine learning algorithms based on labels from humans. By iterating through ambiguous data points, Ground Truth improves the ability to automatically label data resulting in high-quality training datasets.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/J7MWpyFA4Fo\" frameborder=\"0\" allowfullscreen></iframe>"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91999"
+  },
+  {
+    "title": "AIM371 - [NEW LAUNCH!] Accelerating Machine Learning with Amazon SageMaker and AWS Marketplace",
+    "abstract": "Until now, many customers spent time creating or searching for the right algorithm and model when using Amazon SageMaker. In this session you’ll learn how to build machine learning applications even faster by finding curated algorithms and model packages in AWS Marketplace and deploying them directly on Amazon SageMaker.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VKaJN3ylmUM\" frameborder=\"0\" allowfullscreen></iframe>"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92019"
   },
   {
     "title": "AIM385 - Build an Event Registration Kiosk Powered by Facial Recognition",
@@ -466,9 +621,24 @@
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91737"
   },
   {
+    "title": "AIM395 - [NEW LAUNCH!] Easily add real-time recommendations to your applications with Amazon Personalize",
+    "abstract": "Machine learning is being increasingly used to improve customer engagement by powering personalized product and content recommendations, tailored search results, and targeted marketing promotions. Amazon Personalize is a fully managed service allows developers with no prior machine learning experience to easily build sophisticated personalization capabilities into their applications. Join this workshop and learn how you can deliver tailored recommendations for your customers.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/add-realtime-personalization-and-recommendations-to-your-applications-aim395-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92031"
+  },
+  {
     "title": "AIM396-S - ML Best Practices: Prepare Data, Build Models, and Manage Lifecycle",
     "abstract": "In this session, we cover best practices for enterprises that want to use powerful open-source technologies to simplify and scale their machine learning (ML) efforts. Learn how to use Apache Spark, the data processing and analytics engine commonly used at enterprises today, for data preparation as it unifies data at massive scale across various sources. We train models using TensorFlow, and we use MLflow to track experiment runs between multiple users within a reproducible environment. We then manage the deployment of models to production. We show you how MLflow can be used with any existing ML library and incrementally incorporated into an existing ML development process. This session is brought to you by AWS partner, Databricks.",
     "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/o22GdMiUsls\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
       {
         "type": "Slide",
         "url": "https://www.slideshare.net/AmazonWebServices/ml-best-practices-prepare-data-build-models-and-manage-lifecycle-aim396s-aws-reinvent-2018"
@@ -482,21 +652,40 @@
     "media": [
       {
         "type": "Video",
-        "url": "Unsupported type"
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/uu-VKHlv0_E\" frameborder=\"0\" allowfullscreen></iframe>"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22845"
   },
   {
-    "title": "AIM401-R1 - [REPEAT 1] Deep Learning Applications Using TensorFlow, ft. Siemens Financial Services",
-    "abstract": "The TensorFlow deep learning framework is used for developing diverse AI applications, including computer vision, natural language, speech, and translation. In this session, Siemens Financial Services (SFS) presents how it is using TensorFlow on Amazon SageMaker to develop machine learning models for investment due diligence. This application is focused on natural language processing, and it accelerates due diligence by extracting the most relevant and critical information from supporting documents. Both AWS and SFS share best practices for building and deploying TensorFlow models on AWS.",
+    "title": "AIM401-R2 - [REPEAT 2] Deep Learning Applications Using TensorFlow, ft. Advanced Microgrid Solutions",
+    "abstract": "The TensorFlow deep learning framework is used for developing diverse artificial intelligence (AI) applications, including computer vision, natural language, speech, and translation. In this session, learn how to use TensorFlow within the Amazon SageMaker machine learning platform. Then, hear from Advanced Microgrid Solutions about how they implemented a deep neural network architecture with Keras and TensorFlow to forecast energy prices in near real time.",
     "media": [
       {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/VIEp4GR9BRc\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
         "type": "Slide",
-        "url": "https://www.slideshare.net/AmazonWebServices/deep-learning-applications-using-tensorflow-ft-siemens-financial-services-aim401r1-aws-reinvent-2018"
+        "url": "https://www.slideshare.net/AmazonWebServices/deep-learning-applications-using-tensorflow-ft-advanced-microgrid-solutions-aim401r2-aws-reinvent-2018"
       }
     ],
-    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91059"
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91062"
+  },
+  {
+    "title": "AIM402-R - [REPEAT] Deep Learning Applications Using PyTorch, Featuring Facebook",
+    "abstract": "With support for PyTorch 1.0 on Amazon SageMaker, you now have a flexible deep learning framework combined with a fully managed machine learning platform to transition seamlessly from research prototyping to production deployment. In this session, learn how to develop with PyTorch 1.0 within Amazon SageMaker using a novel generative adversarial network (GAN) tutorial. Then, hear from Facebook on how you can use the FAIRSeq modeling toolkit, which serves 6B translations daily for Facebook users, to train your own custom PyTorch models on Amazon SageMaker. Facebook also discusses the evolution of PyTorch 1.0 and features introduced to accelerate research and deployment.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/qc5ZikKw9_w\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/deep-learning-applications-using-pytorch-featuring-facebook-aim402r-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91073"
   },
   {
     "title": "AIM402-R1 - [REPEAT 1] Deep Learning Applications Using PyTorch, Featuring Facebook",
@@ -515,7 +704,7 @@
     "media": [
       {
         "type": "Video",
-        "url": "Unsupported type"
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3tHUGmlclI4\" frameborder=\"0\" allowfullscreen></iframe>\n"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22846"
@@ -524,6 +713,10 @@
     "title": "AIM403-R1 - [REPEAT 1] Integrate Amazon SageMaker with Apache Spark, ft. Moody's",
     "abstract": "Amazon SageMaker, our fully managed machine learning platform, comes with pre-built algorithms and popular deep learning frameworks. Amazon SageMaker also includes an Apache Spark library that you can use to easily train models from your Spark clusters. In this code-level session, we show you how to integrate your Apache Spark application with Amazon SageMaker. We also dive deep into starting training jobs from Spark, integrating training jobs in Spark pipelines, and more.",
     "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/3tHUGmlclI4\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
       {
         "type": "Slide",
         "url": "https://www.slideshare.net/AmazonWebServices/integrate-amazon-sagemaker-with-apache-spark-ft-moodys-aim403r1-aws-reinvent-2018"
@@ -562,6 +755,36 @@
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22843"
   },
   {
+    "title": "AIM404-R2 - [REPEAT 2] Build, Train, and Deploy ML Models Quickly and Easily with Amazon SageMaker, ft. Intuit",
+    "abstract": "Amazon SageMaker is a fully managed platform that enables developers and data scientists to quickly and easily build, train, and deploy machine learning models at any scale. Amazon SageMaker takes away the heavy lifting of machine learning, thus removing the typical barriers associated with machine learning. In this session, we'll dive deep into the technical details of each of the modules of Amazon SageMaker to showcase the capabilities of the platform. We also discuss the practical deployments of Amazon SageMaker through real-world customer examples.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/FKY3A9RasGw\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/build-train-and-deploy-ml-models-quickly-and-easily-with-amazon-sagemaker-ft-intuit-aim404r2-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91030"
+  },
+  {
+    "title": "AIM405-R1 - [REPEAT 1] Better Analytics Through Natural Language Processing",
+    "abstract": "Natural language processing holds the key to unlocking business value from unstructured data. Organizations that implement effective data analysis methods gain a competitive advantage through improved decision-making, risk reduction, or enhanced customer experience. In this session, learn how to easily process, analyze, and visualize data by pairing Amazon Comprehend with services like Amazon Relational Database Service (Amazon RDS), Amazon Elasticsearch Service, and Amazon Neptune. We also share real-world examples of how customers built text analytics solutions with Amazon Comprehend.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/PeKl8bXkFCQ\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/better-analytics-through-natural-language-processing-aim405r1-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=90914"
+  },
+  {
     "title": "AIM406 - Unlock the Full Potential of Your Media Assets, ft. Fox Entertainment Group",
     "abstract": "Machine learning (ML) enables developers to build scalable solutions that maximizes the use of media assets through automatic metadata extraction. From automatic transcription and language translation to face detection and celebrity recognition, ML enables you to automate manual workflows and optimize the use of your video content. In this session, learn how to use services such as Amazon Rekognition, Amazon Translate, and Amazon Comprehend to build a searchable video library, automate the creation of highlight reels, and more.",
     "media": [
@@ -592,6 +815,32 @@
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91095"
   },
   {
+    "title": "AIM407-R1 - [REPEAT 1] Build Deep Learning Applications Using Apache MXNet - Featuring Chick-fil-A",
+    "abstract": "The Apache MXNet deep learning framework is used for developing, training, and deploying diverse AI applications, including computer vision, speech recognition, natural language processing, and more at scale. In this session, learn how to get started with Apache MXNet on the Amazon SageMaker machine learning platform. Chick-fil-A share how they got started with MXNet on Amazon SageMaker to measure waffle fry freshness and how they leverage AWS services to improve the Chick-fil-A guest experience.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/dKcyAjCtXqc\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/build-deep-learning-applications-using-apache-mxnet-featuring-chickfila-aim407r1-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=22844"
+  },
+  {
+    "title": "AIM409 - Build a \"Who's Who\" App for Your Media Content",
+    "abstract": "Video has become an increasingly successful medium for advertising, marketing, and engaging customers. However, many companies underutilize their substantial video assets because they are poorly indexed and cataloged. In this workshop, learn how to use machine learning services to gain more value from video by building a customer celebrity detection feature that can recognize mainstream celebrities and individuals from your own uploaded media files.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/build-a-whos-who-app-for-your-media-content-aim409-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88699"
+  },
+  {
     "title": "AIM410-R2 - [REPEAT 2] Build, Train, and Deploy ML Models with Amazon SageMaker",
     "abstract": "Come and help build the most accurate text classification model possible. A fully managed machine learning (ML) platform, Amazon SageMaker enables developers and data scientists to build, train, and deploy ML models using built-in or custom algorithms. In this workshop, you learn how to leverage Keras/TensorFlow deep learning frameworks to build a text classification solution using custom algorithms on Amazon SageMaker. You package custom training code in a Docker container, test it locally, and then use Amazon SageMaker to train a deep learning model. You then try to iteratively improve the model to achieve a higher level of accuracy. Finally, you deploy the model in production so different applications within the company can start leveraging this ML classification service. Please note that to actively participate in this workshop, you need an active AWS account with admin-level IAM permissions to Amazon SageMaker, Amazon Elastic Container Registry (Amazon ECR), and Amazon S3.",
     "media": [
@@ -612,6 +861,28 @@
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88728"
+  },
+  {
+    "title": "AIM412 - Automatic Model Tuning Using Amazon SageMaker",
+    "abstract": "In many cases, what separates good models from great ones is the choice of hyperparameters. For example, what is the number of layers you should use; what should be the learning rate; what should be regularization parameters, and so on. In this session, learn how Amazon SageMaker makes discovering the best set of hyperparameters an informed process during training.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/automatic-model-tuning-using-amazon-sagemaker-aim412-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88737"
+  },
+  {
+    "title": "AIM413 - Deploying Your ONNX Deep Learning with Apache MXNet Model Server",
+    "abstract": "In this chalk talk, we discuss how you can use Apache MXNet Model Server to deploy ONNX models. We get into the nuts and bolts of deployments, and we discuss monitoring model performance using Amazon CloudWatch integration.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/deploying-your-onnx-deep-learning-with-apache-mxnet-model-server-aim413-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88740"
   },
   {
     "title": "AIM414 - Sequence-to-Sequence Modeling with Apache MXNet, Sockeye, and Amazon SageMaker",
@@ -645,6 +916,17 @@
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88697"
+  },
+  {
+    "title": "AIM417 - Build a Searchable Media Library & Moderate Content at Scale Using Machine Learning",
+    "abstract": "Companies have to process, analyze, and extract meaning from ever-growing volumes of audio, image, and video data. Automating media workflows, such as image and video indexing or manual transcription for closed captions, can help you scale the growth of your media library and save time from manual, error-prone work. In this workshop, you learn how to automate workflows using the Media Analysis Solution, which includes Amazon Rekognition, Amazon Transcribe, and Amazon Comprehend. You learn how to extract metadata from media files and create a searchable library of metadata.",
+    "media": [
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/build-a-searchable-media-library-moderate-content-at-scale-using-machine-learning-aim417-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88698"
   },
   {
     "title": "AIM418 - Build Deep Learning Applications Using MXNet and Amazon SageMaker",
@@ -761,22 +1043,15 @@
     "abstract": "Since its launch in 2015, Alexa has enabled new experiences across many device form factors at home, work, in the car, and on the go. With over 50,000 published skills, hundreds of new API features releases, and numerous Alexa-enabled devices, it can be hard to keep track with of the current pace. In this session, we get you up to speed on the current Voice First movement, the current Conversational AI trends, and we give demonstrations of some of the latest Alexa features and devices. Come learn about the new Alexa Skills Kit (ASK) multi-modal framework, Alexa Presentation Language (APL) for developers, Alexa skill fulfillment and consumables for customers, and some of the latest device offerings utilizing the Alexa Voice Service (AVS) and the new Alexa Gadgets Toolkit.",
     "media": [
       {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/AxP3UPnFE2o\" frameborder=\"0\" allowfullscreen></iframe>\n"
+      },
+      {
         "type": "Slide",
         "url": "https://www.slideshare.net/AmazonWebServices/alexa-everywhere-a-year-in-review-alx201-aws-reinvent-2018"
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94358"
-  },
-  {
-    "title": "ALX201-R1 - [REPEAT 1] Alexa Everywhere: A Year in Review",
-    "abstract": "Since its launch in 2015, Alexa has enabled new experiences across many device form factors at home, work, in the car, and on the go. With over 50,000 published skills, hundreds of new API features releases, and numerous Alexa-enabled devices, it can be hard to keep track with of the current pace. In this session, we get you up to speed on the current Voice First movement, the current Conversational AI trends, and we give demonstrations of some of the latest Alexa features and devices. Come learn about the new Alexa Skills Kit (ASK) multi-modal framework, Alexa Presentation Language (APL) for developers, Alexa skill fulfillment and consumables for customers, and some of the latest device offerings utilizing the Alexa Voice Service (AVS) and the new Alexa Gadgets Toolkit.",
-    "media": [
-      {
-        "type": "Video",
-        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MsibLQOdqlQ\" frameborder=\"0\" allowfullscreen></iframe>"
-      }
-    ],
-    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=91556"
   },
   {
     "title": "ALX301-R2 - [REPEAT 2] How to Train Your Alexa Skill Language Model Using Machine Learning",
@@ -825,6 +1100,21 @@
       }
     ],
     "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88619"
+  },
+  {
+    "title": "ALX305 - Voice Assistants Beyond Smart Speakers - Integrate Alexa into Your Unique Product",
+    "abstract": "Join us for a deep dive into the system architecture for voice-enabled products with \"Alexa Built-In\". Device makers can use the Alexa Voice Service (AVS) to add conversational AI to a variety of products from smart speakers to headphones, screen-based devices to smarthome, and more. Learn how to choose the right hardware and software tools, ensure great customer experience with test and certification guidelines, and leverage qualified solution providers to get your products to market faster.",
+    "media": [
+      {
+        "type": "Video",
+        "url": "<iframe width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/MEJFxo0CAYs\" frameborder=\"0\" allowfullscreen></iframe>"
+      },
+      {
+        "type": "Slide",
+        "url": "https://www.slideshare.net/AmazonWebServices/voice-assistants-beyond-smart-speakers-integrate-alexa-into-your-unique-product-alx305-aws-reinvent-2018"
+      }
+    ],
+    "sessionUrl": "https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=88626"
   },
   {
     "title": "ALX306-R2 - [REPEAT 2] Everything You Wanted to Know about Developing for Voice Using Alexa",
