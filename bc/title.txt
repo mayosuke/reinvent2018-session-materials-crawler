@@ -1,3 +1,4 @@
+"DAT381 - [NEW LAUNCH!] Deep Dive on Amazon Managed Blockchain"
 "GPSCT303 - Blockchain Architecture Design Patterns"
 "GPSTEC315 - Build Business-Ready Blockchains with Intelligence"
 "GPSTEC317 - Building Blockchain Platforms Beyond a Proof of Concept"
@@ -6,3 +7,4 @@
 "SEC389 - Detecting Credential Compromise in AWS"
 "STP05 - #BUIDLing the Decentralized Future on Ethereum"
 "STP12 - Crypto 101/201"
+"STP14 - How Coinbase Builds Out Its Blockchain Infrastructure"

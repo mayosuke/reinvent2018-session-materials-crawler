@@ -1,6 +1,6 @@
 node ../reinvent.js bitcoin ethereum blockchain | jq . > session.json
 
-node ../md.js .bc/session.json > session.md
+node ../md.js ./bc/session.json > session.md
 
 cat session.json | jq '.[].abstract' > abstract.txt
 cat session.json | jq '.[].title' > title.txt

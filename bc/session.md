@@ -1,3 +1,10 @@
+## DAT381 - [NEW LAUNCH!] Deep Dive on Amazon Managed Blockchain
+Amazon Managed Blockchain is a fully managed blockchain service that makes it easy for customers to create and manage scalable blockchain-based transaction networks (blockchain networks) using the popular open source blockchain frameworks Hyperledger Fabric and Ethereum. Blockchain technologies enable groups of organizations, oftentimes in financial services and manufacturing, to securely transact, run application code, and share data without a trusted central authority. We will explore the components of blockchain technology, discuss use cases, and do a deep dive into capabilities, performance, and key innovations in Amazon Managed Blockchain.
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9tlH8lzKI4" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94401" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94401</a>
+
 ## GPSCT303 - Blockchain Architecture Design Patterns
 When it comes to blockchain or any other technology, business use cases always come first. However, once the need for a distributed ledger-based platform is clear, how do you design a decentralized platform that adheres to the required trust and throughput requirements? In this chalk talk, we whiteboard blockchain architectures, best practices, and antipatterns for top blockchain protocols like Ethereum, Hyperledger, and Corda.
 ### Slide
@@ -61,4 +68,11 @@ Blockchain technology has the potential to dramatically change the financial lan
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xo6Zp0jL--s" frameborder="0" allowfullscreen></iframe>
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92691" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92691</a>
+
+## STP14 - How Coinbase Builds Out Its Blockchain Infrastructure
+Coinbase has some fairly unusual security and infrastructure requirements. One of these requirements is that every server in our infrastructure is both ephemeral (<30 days) and immutable. The deployment process for most applications is fairly straightforward: 12-factor apps are blue/green deployed behind a load balancer. Blockchain nodes, however, present a difficult problem: How do you blue/green deploy a server with 1 TB on disk? In this session, we discuss how we solved this problem in a blockchain-agnostic fashion using a new project, called Snapchain.
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPemFSYO0Dw" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92693" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92693</a>
 

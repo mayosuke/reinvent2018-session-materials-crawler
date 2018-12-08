@@ -1,3 +1,10 @@
+## DAT381 - [NEW LAUNCH!] Deep Dive on Amazon Managed Blockchain
+AmazonはBlockchainがHyperledgerファブリックとイーサリアムをフレームワークblockchain人気の高いオープンソースを使用して、それが簡単に顧客がスケーラブルblockchainベースの取引ネットワークを作成して管理できるようになり完全に管理blockchainサービス（blockchainネットワーク）で管理されます。 Blockchain技術は、信頼できる中央の権限なし安全にアプリケーション・コードを実行し、取引する、しばしば金融サービス、製造業では、組織のグループを有効にし、データを共有します。私たちは、blockchain技術のコンポーネントを探るユースケースを議論し、機能、パフォーマンスへの深いダイビングを行う、とAmazonの重要な技術革新はBlockchainを管理します。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/B9tlH8lzKI4" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94401" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=94401</a>
+
 ## GPSCT303 - Blockchain Architecture Design Patterns
 それはblockchainまたは任意の他の技術になると、ビジネスユースケースは、常に最初に来ます。分散台帳ベースのプラットフォームの必要性が明らかであるしかし、一度、どのように必要な信頼とスループット要件に準拠して分散型プラットフォームを設計していますか？このチョークの話では、我々はイーサリアム、Hyperledger、およびコルダのようなトップblockchainプロトコルのblockchainアーキテクチャ、ベストプラクティス、アンチパターンをホワイトボード。
 ### Slide
@@ -61,4 +68,11 @@ Blockchain技術は飛躍的な金融風景を変える可能性を秘めてい�
 <iframe width="560" height="315" src="https://www.youtube.com/embed/xo6Zp0jL--s" frameborder="0" allowfullscreen></iframe>
 ### Session Detail
 <a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92691" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92691</a>
+
+## STP14 - How Coinbase Builds Out Its Blockchain Infrastructure
+Coinbaseは、いくつかのかなり珍しいのセキュリティおよびインフラストラクチャの要件があります。これらの要件の1つは、当社のインフラストラクチャ内のすべてのサーバが（<30日）短命と不変の両方であるということです。ほとんどのアプリケーションのための展開プロセスは非常に簡単です：12-要因のアプリは、青/緑のロードバランサの背後に展開されています。 Blockchainノードは、しかし、困難な問題を提示：どのようにして、緑/青のディスク上の1つのTBでサーバーを展開していますか？このセッションでは、我々はSnapchainと呼ばれる新しいプロジェクトを、使用してblockchain-流行にとらわれないで、この問題を解決する方法について説明します。
+### Video
+<iframe width="560" height="315" src="https://www.youtube.com/embed/tPemFSYO0Dw" frameborder="0" allowfullscreen></iframe>
+### Session Detail
+<a href="https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92693" target="_blank">https://www.portal.reinvent.awsevents.com/connect/sessionDetail.ww?SESSION_ID=92693</a>
 
